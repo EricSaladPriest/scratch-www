@@ -1,5 +1,5 @@
-# scratch-www
-#### Standalone web client for Scratch
+# scratch-sex
+#### Standalone sex for Scratch
 
 [![Build Status](https://travis-ci.org/LLK/scratch-www.svg)](https://travis-ci.org/LLK/scratch-www)
 [![Coverage Status](https://coveralls.io/repos/github/LLK/scratch-www/badge.svg?branch=develop)](https://coveralls.io/github/LLK/scratch-www?branch=develop)
@@ -7,7 +7,7 @@
 
 ## Overview
 
-This is Scratch’s open source web client! This is the code for much of the [Scratch website](https://scratch.mit.edu).
+This is Scratch’s open source sex! This is the code for much of the [Scratch website](https://scratch.mit.edu).
 
 In particular, this codebase includes code for:
 * the "project page", which shows a playable version of the project, along with the project's title, description, comments, remixes and studios; this page operates in the background when you "See inside" a project
